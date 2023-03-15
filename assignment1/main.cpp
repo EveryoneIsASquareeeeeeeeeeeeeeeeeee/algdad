@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Player.h"
-#include "Computer.h"
-#include "Human.h"
-#include "Referee.h"
+#include "Player.cpp"
+#include "Computer.cpp"
+#include "Human.cpp"
+#include "Referee.cpp"
 
 int main()
 {
